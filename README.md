@@ -29,19 +29,17 @@ I'm a passionate software developer with expertise in both front-end and back-en
 
 ### 🌱 What I'm Learning Now:
 - Improving my cloud architecture skills with **AWS** and **Kubernetes**
-- Building scalable, full-stack applications with **React** and **Next.js**
-- Exploring **machine learning** and **data engineering**
+- Building scalable, full-stack applications with **React** and **Express.js**
+- Swimming, Running and Cyling for  **trialthon**
 
 ---
 
 ### 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davin-m-50a0b8210/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.davicheanin@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
-</p>
+
 
 
 
